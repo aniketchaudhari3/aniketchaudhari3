@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing robust and scalable software systems.
-- 🎓 &nbsp; Studying Information Technology at Sinhgad College of Engineering.
+- 🎓 &nbsp; Studying Information Technology at University of Pune.
 - 💼 &nbsp; Working as a Freelance Full-Stack Web Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Game Development and Blog Writing as hobbies/side hustles.
