@@ -60,7 +60,7 @@
 <br/> 
 <br/> 
 
-<a href="https://github.com/anikethc3@gmail.com">
+<a href="https://github.com/aniketchaudhari3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketchaudhari3&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketchaudhari3&theme=buefy&layout=compact" />
 </a>
