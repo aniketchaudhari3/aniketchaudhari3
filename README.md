@@ -77,4 +77,5 @@
 <a href="https://www.instagram.com/aniket.chaudhari3/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aniket.chaudhari3-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:aniket@aniketchaudhari.com"><img alt="Email" src="https://img.shields.io/badge/Email-aniket@aniketchaudhari.com-blue?style=flat-square&logo=gmail"></a>
 <a href="mailto:aniket.bgfy19@sinhgad.edu"><img alt="Email" src="https://img.shields.io/badge/Email-aniket.bgfy19@sinhgad.edu-blue?style=flat-square&logo=gmail"></a>
+  ![](https://komarev.com/ghpvc/?username=aniketchaudhari3)
 </p>
