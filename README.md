@@ -78,4 +78,3 @@
 <a href="mailto:aniket@aniketchaudhari.com"><img alt="Email" src="https://img.shields.io/badge/Email-aniket@aniketchaudhari.com-blue?style=flat-square&logo=gmail"></a>
 <a href="mailto:aniket.bgfy19@sinhgad.edu"><img alt="Email" src="https://img.shields.io/badge/Email-aniket.bgfy19@sinhgad.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-![Profile Visits](https://komarev.com/ghpvc/?username=aniketchaudhari3)
