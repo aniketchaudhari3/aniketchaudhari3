@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Aniket.</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🎓 &nbsp; Studying Information Technology at University of Pune.<br>
+- 🎓 &nbsp; Computer Science graduate from University of Pune.<br>
 - 💼 &nbsp; Working as a Software Engineer @ Verak (YC W21).
 
 
